@@ -1,0 +1,16 @@
+{
+    "data" : [
+        {"title" : "1제목입니다", "content": "1내용입니다", "author":"1홍길동", "createdAt":"2024-10-24"},
+        {"title" : "2제목입니다", "content": "2내용입니다", "author":"2홍길동", "createdAt":"2024-10-24"},
+        {"title" : "3제목입니다", "content": "3내용입니다", "author":"3홍길동", "createdAt":"2024-10-24"},
+        {"title" : "4제목입니다", "content": "4내용입니다", "author":"4홍길동", "createdAt":"2024-10-24"},
+        {"title" : "5제목입니다", "content": "5내용입니다", "author":"5홍길동", "createdAt":"2024-10-24"},
+        {"title" : "6제목입니다", "content": "6내용입니다", "author":"6홍길동", "createdAt":"2024-10-24"},
+        {"title" : "7제목입니다", "content": "7내용입니다", "author":"7홍길동", "createdAt":"2024-10-24"},
+        {"title" : "8제목입니다", "content": "8내용입니다", "author":"8홍길동", "createdAt":"2024-10-24"},
+        {"title" : "9제목입니다", "content": "9내용입니다", "author":"9홍길동", "createdAt":"2024-10-24"},
+        {"title" : "10제목입니다", "content": "10내용입니다", "author":"10홍길동", "createdAt":"2024-10-24"}
+    
+    ]
+}
+
